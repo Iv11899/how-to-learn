@@ -1,9 +1,0 @@
-.khan{
-  margin: 0;
-  padding: 0;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  z-index: 1;
-  background-color: #f2f2f2;
-}

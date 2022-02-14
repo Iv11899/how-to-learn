@@ -1,9 +1,14 @@
 .footer__column-link {
-  line-height: 30px; /* 10*/
+  line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  list-style: none; /* */
+  list-style: none;
   text-align: left;
   color: inherit;
   text-decoration: inherit;
+  opacity: 1;
+  transition: opacity 0.5 ease-in-out;
+}
+.footer__column-link:hover {
+  opacity: 0.5;
 }

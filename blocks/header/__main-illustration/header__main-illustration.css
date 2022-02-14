@@ -2,7 +2,8 @@
   margin: 0;
   width: 765px;
   height: 608px;
-  background-size: cover;
+  /*background-size: cover;*/
+  background-color: transparent; /**/
   position: absolute;
   bottom: 0;
   right: 0;

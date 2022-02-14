@@ -7,4 +7,6 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
+  background-color: transparent;
+  z-index: 2;
 }

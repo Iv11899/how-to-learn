@@ -1,4 +1,4 @@
-.feynman__link{
+.feynman__link {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -10,6 +10,6 @@
   opacity: 1;
   transition: opacity 0.5 ease-in-out;
 }
-.feynman__link:hover{
+.feynman__link:hover {
   opacity: 0.5;
 }

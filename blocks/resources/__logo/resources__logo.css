@@ -6,6 +6,6 @@
   opacity: 1;
   transition: opacity 0.5 ease-in-out;
 }
-.resources__logo:hover{
+.resources__logo:hover {
   opacity: 0.5;
 }
